@@ -1,6 +1,12 @@
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Nunito', sans-serif;
     font-weight: 300;
+    /* Set a background image by replacing the URL below */
+    background: url('https://github.com/cynthiajc3/CDM-198-003-SQ-2019-CCC/blob/master/Background2.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
   }
   
   header {
