@@ -8,8 +8,8 @@
     
     date = 2019-05-19T17:03:24-07:00 #the date the file was created
     
-    headshot = "headshot.jpg"
+    headshot = "ccc_pic.jpg"
 
 +++
 
-I am the alphaplatinum. The archandroid. Android number 57821. Seducer of humans, breaker of rules, escapee of the droid control. The elusive, the rulebreaker bounty-hunters dream of catching. I am your worst nightmare.
+I am a spark of color, fun, and laughter! I watched an animation demo reel for the first time during an art class my junior year in high school. From then on, I was hooked and would go on to become a producer in the field of animation. As any quest, the path has been filled with unexpected twists and turns. Through those events, I learned my strength lies with helping talented groups of people work together to complete spectacular works of art.

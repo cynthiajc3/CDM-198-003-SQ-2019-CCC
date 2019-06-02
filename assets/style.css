@@ -27,7 +27,7 @@ body{
 }
 
 #nav1{  
-    background-color:rgb(253, 247, 247); /*whichever you want*/
+    background-color:rgb(253, 255, 255); /*whichever you want*/
     opacity: .90; 
     filter:(opacity=50);       
 }
@@ -35,6 +35,16 @@ body{
     color: darkturquoise;
 }
 
+#content_material{
+    background-color:rgb(255, 255, 255); /*whichever you want*/
+    opacity: .90; 
+    filter:(opacity=50); 
+}
 
+#content_aboutme{
+    background-color:rgb(255, 255, 255); /*whichever you want*/
+    opacity: .90; 
+    filter:(opacity=50);
+}
 
 /* */
