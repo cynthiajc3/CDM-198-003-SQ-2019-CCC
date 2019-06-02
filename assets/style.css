@@ -29,5 +29,9 @@ body{
     opacity: .90; 
     filter:(opacity=50);       
 }
+#navbarNav a:hover{
+    color: darkturquoise;
+}
+
 
 /* */
