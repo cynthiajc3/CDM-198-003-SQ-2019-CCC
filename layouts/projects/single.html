@@ -8,7 +8,7 @@
 <body>
     {{ partial "navbar.html" (dict "context" . "originPage" "project") }}
     <div class="container">
-        <h1>{{ .Title }}</h1>
+        {{/*<h1 class = "text-center">{{ .Title }}</h1>*/}}
         <div class = "row"> 
                 <div class="col-12 col-md-8">
         {{/*  Each project has either a project image or a project video  */}}
@@ -43,9 +43,10 @@
         {{ end }}
                 </div>
                 <div class="col-6 col-md-4">
-        {{ .Content }}
-        {{/*  You can add more images and videos in the content as well! 
-            Do that in the .md file for the project  */}}
+                    <h3>{{ .Title }}</h3>
+                    {{ .Content }}
+                    {{/*  You can add more images and videos in the content as well! 
+                     Do that in the .md file for the project  */}}
                 </div>
         </div>
     </div>

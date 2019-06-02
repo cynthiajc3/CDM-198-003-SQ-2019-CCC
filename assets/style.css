@@ -3,13 +3,14 @@
     margin-bottom: 2rem;
 }
 
-.card-body a{ /* changes the style of a only when it's inside of card-body */
+.card-img-overlay a{ /* changes the style of a only when it's inside of card-body */
     text-decoration: none;
-    color: black;
+    color: whitesmoke;
 }
 
-.card-body a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
+.card-img-overlay a:hover{ /* changes the style of a ON HOVER and only when it's inside of card-body */
     color: darkturquoise;
+    
 }
 
 /*background font & image*/
@@ -22,7 +23,7 @@ body{
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -o-background-size: cover;
-   box-shadow: inset 0 0 0 1000px rgba(255, 254, 254, .55);
+   /* box-shadow: inset 0 0 0 1000px rgba(255, 254, 254, .55);*/
 }
 
 #nav1{  

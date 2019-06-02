@@ -22,7 +22,6 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 
 +++
-\
 A Claymation short film about a goofy doodle who finds itself in a dilemma when exiting a building. “Exit” was based on a funny experience that happened to my mother. My goal in making this short film was to share the comedic emotional roller-coaster ride she was on during the incident, one of which many of us find ourselves on unintentionally.
 
 Material & Software – Modeling clay, Wire, Cardboard boxes, Photoshop, and Final Cut Pro. 

@@ -22,7 +22,6 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 
 +++
-\
 The 3D Animation model of a beach hut was inspired by the Hawaiian Islands. My goal in making this model was to capture the islands’ beautiful beach vacation essence. To do so, I focused in on essential beach items and natural elements found on islands.  
 
 Software – Maya  

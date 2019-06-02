@@ -22,7 +22,6 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 
 +++
-\
 A 3D Animation model of Legos. Inspired by their simplistic and playful design, my goal of making this model was to capture Lego’s fun and welcoming nature. Using color and placement, the identical pieces take on a personality of their own and provide a variety of different possibilities they can be assembled in. 
 
 Software – Maya  
