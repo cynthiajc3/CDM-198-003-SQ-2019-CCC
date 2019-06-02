@@ -35,8 +35,10 @@
             {{ end }}
         {{ else }}
             {{ if .Params.projectImage }}
+                <div class="col-md-12 col-md-8">
                 {{ $img:= .Resources.GetMatch .Params.projectImage }}
-                <img src="{{ $img.RelPermalink }}" />
+                <img src="{{ $img.RelPermalink }}" class="img-fluid fit-image"/>
+                </div>
             {{ else }}
                 <p>THERE IS NO PROJECT IMAGE OR PROJECT VIDEO ASSOCIATED WITH THIS PROJECT!!!</p>
                 <p>TODO: ADD A PROJECT IMAGE OR PROJECT VIDEO</p>
