@@ -15,7 +15,7 @@
 /*background font & image*/
 body{
    font-family: 'Nunito', 'Lato','sans-serif';
-   /*background-color: aqua;*/
+   background-color: white;
    
    /*background-image: url("/assets/bk_image.png");
     -webkit-background-size: cover;
@@ -25,5 +25,10 @@ body{
     
 }
 
+#nav1{  
+    background-color:rgb(253, 247, 247); /*whichever you want*/
+    opacity: .85; 
+    filter:(opacity=50);       
+}
 
 /* */
