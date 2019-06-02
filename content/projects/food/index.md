@@ -22,9 +22,9 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 
 +++
-
+\
 A 3D animated short film about a mischievous squirrel on a mission to grab a quick snack. Will the squirrel pull off the mission or become the fest? “Food” was inspired by all the accounts of squirrels attempting to or feasting on my dog’s food I have witnessed in my backyard. The squirrels would always wait until my dog was asleep to make their move. My goal in making this short film was to demonstrate an overall view of the peculiar confidence and toughness the squirrels showed throughout their attempts. 
 
 Software – Maya  
-
+\
 

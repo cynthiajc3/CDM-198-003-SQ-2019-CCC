@@ -22,8 +22,8 @@
     #Alt text is the text that gets read by screenreaders for accessibility (typically for the visually impaired) 
 
 +++
-
+\
 A 3D Animated clip based of the famous dance moved called “The Running Man”. The goal of this clip was to demonstrate a cycle animation that is made up of a few keyframes, and then repeated across the duration of a song. When it's played on repeat, the end and the beginning are seamless.
 
 Software – Maya  
-
+\
