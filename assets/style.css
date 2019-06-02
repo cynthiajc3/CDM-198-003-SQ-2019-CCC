@@ -15,7 +15,7 @@
 /*background font & image*/
 body{
    font-family: 'Nunito', 'Lato','sans-serif';
-   background-color: aqua;
+   /*background-color: aqua;*/
    
    /*background-image: url("/assets/bk_image.png");
     -webkit-background-size: cover;

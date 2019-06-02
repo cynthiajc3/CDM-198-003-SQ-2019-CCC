@@ -9,11 +9,11 @@
     {{/*  the second argument is the context for variables in "head.html" and using "." means use the same variable namespace as this document  */}}
 </head>
 <body>
-
     {{ partial "navbar.html" (dict "context" . "originPage" "project") }}
     <div class="container">
         <h1>{{ .Title }}</h1>
-        
+        <div class = "row"> 
+                <div class="col-6"> 
         {{/*  Each project has either a project image or a project video  */}}
         {{/*  The code below checks if there's a project video, and if so checks the type  */}}
         {{/*  Youtube videos and Vimeo videos are handled differently. If you have another video type 
@@ -42,11 +42,13 @@
                 <p>TODO: ADD A PROJECT IMAGE OR PROJECT VIDEO</p>
         {{ end }}
         {{ end }}
-
+                </div>
+                <div class="col-4"> 
         {{ .Content }}
         {{/*  You can add more images and videos in the content as well! 
             Do that in the .md file for the project  */}}
-     
+                </div>
+        </div>
     </div>
     
 </body>
