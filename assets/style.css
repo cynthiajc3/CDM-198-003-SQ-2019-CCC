@@ -14,14 +14,15 @@
 
 /*background font & image*/
 body{
-   font-family: 'Nunito', 'Lato','sans-serif';
-   /*background-color: white;*/
-   /*background-image: url("/assets/bk_image.png");
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;*/
-    
+   font-family: 'Happy Monkey','Nunito', 'Lato','sans-serif';
+   background:url(/resources/_gen/images/bk_image2.png);
+   background-size:cover;
+   background-position: center;
+   background-repeat: no-repeat;
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   box-shadow: inset 0 0 0 1000px rgba(255, 254, 254, .68);
 }
 
 #nav1{  
