@@ -13,3 +13,9 @@
 +++
 
 I am a spark of color, fun, and laughter! I watched an animation demo reel for the first time during an art class my junior year in high school. From then on, I was hooked and would go on to become a producer in the field of animation. As any quest, the path has been filled with unexpected twists and turns. Through those events, I learned my strength lies with helping talented groups of people work together to complete spectacular works of art.
+
+
+
+Contact Info
+
+

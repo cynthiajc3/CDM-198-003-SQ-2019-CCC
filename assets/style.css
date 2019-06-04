@@ -1,6 +1,7 @@
 /* for card layout */
 .gallery-row {
     margin-bottom: 2rem;
+    
 }
 
 .card-img-overlay a{ /* changes the style of a only when it's inside of card-body */

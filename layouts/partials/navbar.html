@@ -5,9 +5,6 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-                <a class="nav-link" href="#">Home</a>
-            </li>
             <li class="nav-item {{ if eq .originPage `home` }} active {{ end }}">
             {{/*  active means this is the current page  */}}
             {{/*  using ` quotes around "home" because I'm already inside of a quote  */}}
@@ -25,9 +22,6 @@
                         <span class="sr-only">(current)</span>
                     {{ end }}
                 </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Contact</a>
             </li>
             </ul>
         </div>
